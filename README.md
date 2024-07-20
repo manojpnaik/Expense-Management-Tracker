@@ -101,7 +101,8 @@ Creating Expense
 
 Editing and deleting expense
 
-![Screenshot 2024-07-20 210411](https://github.com/user-attachments/assets/b44d7088-8436-442b-8b28-921426fc777c)
+![Screenshot 2024-07-20 210431](https://github.com/user-attachments/assets/0e678b7e-ae0f-4083-8234-1d2469cd90aa)
+
 
 Logut
 ![Screenshot 2024-07-20 210452](https://github.com/user-attachments/assets/e0bd7f64-51d8-41a3-984b-10d989cc3ad1)
