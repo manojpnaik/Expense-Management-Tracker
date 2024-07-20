@@ -89,6 +89,12 @@ Login Page
 
 ![Screenshot 2024-07-20 205906](https://github.com/user-attachments/assets/f9899b62-7b89-4ea8-bcbb-274e334bed5c)
 
+Home Page
+
+![Screenshot 2024-07-20 210311](https://github.com/user-attachments/assets/ef0a4da2-06a5-4d17-adc6-dabec2036f4a)
+
+![Screenshot 2024-07-20 210326](https://github.com/user-attachments/assets/33e374dc-6ecf-43da-8e39-7327430a610e)
+
 
 
 
