@@ -85,6 +85,11 @@ Registration  Page
 ![Screenshot 2024-07-20 205849](https://github.com/user-attachments/assets/a11d76fd-5342-41f0-ae27-6809e924c198)
 
 
+Login Page
+
+![Screenshot 2024-07-20 205906](https://github.com/user-attachments/assets/f9899b62-7b89-4ea8-bcbb-274e334bed5c)
+
+
 
 
 
