@@ -53,6 +53,35 @@ Back-end: Node.js, Express.js
 Database: MongoDB
 
 ------Setup Instructions:---------------
+1 Clone the repository
+git clone https://github.com/your-username/expense-management.git
+cd expense-management
+
+2 Switch to the my-new-branch Branch
+git checkout my-new-branch
+
+3 Install Dependencies 
+            For the back-end
+                    cd server
+                    npm install
+                    
+            For the front-end
+                    cd ../client
+                    npm install
+4 Environment Variables
+MONGO_URI=your_mongodb_connection_string
+5 Running the Application
+        Start the back-end server
+            cd server
+            npm start
+        Start the front-end server
+            cd client
+            npm start
+
+
+
+
+
 
 
 
