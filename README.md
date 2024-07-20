@@ -54,7 +54,7 @@ Database: MongoDB
 
 ------Setup Instructions:---------------
 1 Clone the repository
-git clone https://github.com/your-username/expense-management.git
+git clone https://github.com/manojpnaik/Expense-Management-Tracker/tree/my-new-branch
 cd expense-management
 
 2 Switch to the my-new-branch Branch
@@ -77,6 +77,13 @@ MONGO_URI=your_mongodb_connection_string
         Start the front-end server
             cd client
             npm start
+            
+
+Registration  Page
+
+
+
+
 
 
 
