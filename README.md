@@ -95,8 +95,16 @@ Home Page
 
 ![Screenshot 2024-07-20 210326](https://github.com/user-attachments/assets/33e374dc-6ecf-43da-8e39-7327430a610e)
 
+Creating Expense
 
+![Screenshot 2024-07-20 210411](https://github.com/user-attachments/assets/e6405726-e4a5-464e-a833-8ef4f96f3afa)
 
+Editing and deleting expense
+
+![Screenshot 2024-07-20 210411](https://github.com/user-attachments/assets/b44d7088-8436-442b-8b28-921426fc777c)
+
+Logut
+![Screenshot 2024-07-20 210452](https://github.com/user-attachments/assets/e0bd7f64-51d8-41a3-984b-10d989cc3ad1)
 
 
 
