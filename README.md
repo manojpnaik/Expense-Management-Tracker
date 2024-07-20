@@ -53,6 +53,7 @@ Back-end: Node.js, Express.js
 Database: MongoDB
 
 ------Setup Instructions:---------------
+
 1 Clone the repository
 git clone https://github.com/manojpnaik/Expense-Management-Tracker/tree/my-new-branch
 cd expense-management
@@ -80,6 +81,8 @@ MONGO_URI=your_mongodb_connection_string
             
 
 Registration  Page
+
+![Screenshot 2024-07-20 205849](https://github.com/user-attachments/assets/a11d76fd-5342-41f0-ae27-6809e924c198)
 
 
 
